@@ -1,5 +1,7 @@
 # LinkedinBotRelease
 
+## GIFF
+
 ## System Requirements
 ### 1. JAVA JDK version 1.8 pre installed 
 #### Command to verify java version on windows command prompt
