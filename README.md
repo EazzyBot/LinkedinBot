@@ -45,5 +45,6 @@ Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
 We haeve really putin our heart and soles in the development of this project. We are open to feedback and suggestion.
 Please send your feedback and suggestions via [email](linkedineasybot@gmail.com)
 
-### YouTube sample Run [Link](
+### YouTube sample Run 
+[For video lovers](https://www.youtube.com/watch?v=qDKlR3XTDe8&feature=youtu.be)
 #### If you really enjoyed our work and want us to motivate then you may think of [buying us a pizza](https://www.buymeacoffee.com/EazyBot)
