@@ -17,6 +17,12 @@ where chromedriver
 
 3. Chrome driver path variable updated under system variables 
 
+#### Steps 
+
+#### Public Issues page 
+
+#### Known issues 
+
 #### Features
 1. Applies Easy apply jobs 
 2. Genrates a CSV file with list of jobs that were applied
