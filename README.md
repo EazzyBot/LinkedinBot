@@ -2,28 +2,34 @@
 
 ## GIFF
 
-## System Requirements
-### 1. JAVA JDK version 1.8 pre installed 
-#### Command to verify java version on windows command prompt
+## Section 1: System Requirements
+Operating System: Windows OS, MAC OS,Linux ( Any operating system comaptible to run Java Jar files)
+
+JAVA: JDK version 1.8 or above
+
+Web Browser: Google chrome 
+
+Web Browser driver: [Chrome driver](https://chromedriver.chromium.org/downloads) installed at path **C:\chromedriver_win32**
+ 
+### Section 2: Impotant comands on Windows
+#### 2.1 Command to verify java version on windows command prompt
 Java -version 
 
 ![image](https://user-images.githubusercontent.com/37073720/82620188-b86b7c00-9b8c-11ea-88c5-68d2748ec689.png)
 
-
-### 2. [Chrome driver](https://chromedriver.chromium.org/downloads) installed at path "C:\chromedriver_win32" 
-
-#### Command to verify path on windows command prompt
+#### 2.2 Command to verify Chrome driver path on windows command prompt 
 where chromedriver
 
 ![image](https://user-images.githubusercontent.com/37073720/82511367-f8196180-9ac1-11ea-877c-a93a9c7adac6.png)
 
-3. Chrome driver path variable updated under system variables 
-
 #### Steps 
 
-#### Public Issues page 
+#### Bugs can be tracked 
+[here](https://github.com/EazzyBot/LinkedinBot/issues)
 
-#### Known issues 
+#### List of known issues 
+<table>
+</table>
 
 #### Features
 1. Applies Easy apply jobs 
