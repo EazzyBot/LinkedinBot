@@ -47,4 +47,4 @@ Please send your feedback and suggestions via [email](linkedineasybot@gmail.com)
 
 ### YouTube sample Run 
 [For video lovers](https://www.youtube.com/watch?v=qDKlR3XTDe8&feature=youtu.be)
-#### If you really enjoyed our work and want us to motivate then you may think of [buying us a pizza](https://www.buymeacoffee.com/EazyBot)
+#### If you really enjoyed our work and want to motivate us then you may think of [buying us a pizza](https://www.buymeacoffee.com/EazyBot)
