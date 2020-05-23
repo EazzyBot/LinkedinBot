@@ -39,5 +39,9 @@ Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
 1. [Ankit Nandwani](https://about.me/ankitnandwani) 
 2. [Mayank Batra](https://about.me/mayank_batra) 
 
+### Section 8: Feedback and suggestions
+We haeve really putin our heart and soles in the development of this project. We are open to feedback and suggestion.
+Please send your feedback and suggestions via [email](linkedineasybot@gmail.com)
 
+### YouTube [Link](
 #### [Buy us a pizza](https://www.buymeacoffee.com/EazyBot)
