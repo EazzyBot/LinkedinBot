@@ -22,20 +22,20 @@ where chromedriver
 
 ![image](https://user-images.githubusercontent.com/37073720/82511367-f8196180-9ac1-11ea-877c-a93a9c7adac6.png)
 
-#### Steps 
+### Section 3: Execution Steps 
 
-#### Bugs can be tracked 
-[here](https://github.com/EazzyBot/LinkedinBot/issues)
+### Section 4: Issues and Bugs 
+Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
 
-#### List of known issues 
+### Section 5:  List of known issues 
 <table>
 </table>
 
-#### Features
+### Section 6:  Features
 1. Applies Easy apply jobs 
 2. Genrates a CSV file with list of jobs that were applied
 
-#### Contributors
+### Section 7:  Contributors
 1. [Ankit Nandwani](https://about.me/ankitnandwani) 
 2. [Mayank Batra](https://about.me/mayank_batra) 
 
