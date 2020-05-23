@@ -1,10 +1,11 @@
 # LinkedinBotRelease
 
-## About Eazy BOT
+### About Eazy BOT
 
-## GIFF
 
-## Section 1: System Requirements
+### GIFF
+
+### Section 1: System Requirements
 Operating System: Windows OS, MAC OS,Linux ( Any operating system comaptible to run Java Jar files)
 
 JAVA: JDK version 1.8 or above
