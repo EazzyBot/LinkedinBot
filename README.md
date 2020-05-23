@@ -1,5 +1,7 @@
 # LinkedinBotRelease
 
+## About Eazy BOT
+
 ## GIFF
 
 ## Section 1: System Requirements
@@ -43,5 +45,5 @@ Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
 We haeve really putin our heart and soles in the development of this project. We are open to feedback and suggestion.
 Please send your feedback and suggestions via [email](linkedineasybot@gmail.com)
 
-### YouTube [Link](
-#### [Buy us a pizza](https://www.buymeacoffee.com/EazyBot)
+### YouTube sample Run [Link](
+#### If you really enjoyed our work and want us to motivate then you may think of [buying us a pizza](https://www.buymeacoffee.com/EazyBot)
