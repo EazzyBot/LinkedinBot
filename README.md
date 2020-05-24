@@ -1,7 +1,7 @@
 # LinkedinBotRelease
 
 ### About Eazy BOT
-
+It’s basically a bot which you can use to apply “Easy Apply” jobs on linkedin. You just need to enter your credentials and job preferences and let it go wild. It might take some time based on the number of jobs available so you can Netflix and chill meanwhile!
 
 ### GIFF
 
@@ -26,6 +26,35 @@ where chromedriver
 ![image](https://user-images.githubusercontent.com/37073720/82511367-f8196180-9ac1-11ea-877c-a93a9c7adac6.png)
 
 ### Section 3: Execution Steps 
+__Step 1__: Download the latest [jar](https://github.com/EazzyBot/LinkedinBot/blob/master/Beta%20Release%201.0/LinkedinEasyApplyBot.jar) 
+and place it anywhere on your computer. Lets say its in C:/bot
+
+__Step 2__: Make sure you have jdk, chromedriver and chrome installed
+
+__Step 3__: open command prompt
+
+__Step 4__: Run the following commands:
+
+    `cd C:/bot`
+
+
+    `java -jar LinkedinEasyApplyBot.jar`
+
+__Step 5__: Enter details
+
+    username: Your linkedin Email or phone
+
+    Password: Your linkedin password
+
+    Job Type: jobs you want to search
+
+    Country: Location you want to apply jobs in
+
+    Work Experience: Total experience in years (keep it a whole number)
+
+__Step 6__: Click Submit
+
+__Step 7__: Sit back and enjoy the show!
 
 ### Section 4: Issues and Bugs 
 Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
