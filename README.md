@@ -14,6 +14,8 @@ Web Browser: Google chrome
 
 Web Browser driver: [Chrome driver](https://chromedriver.chromium.org/downloads) installed at path **C:\chromedriver_win32**
  
+ **Make sure chrome driver version should match with the google chrome version running on your system**
+
 ### Section 2: Impotant comands on Windows
 #### 2.1 Command to verify java version on windows command prompt
 Java -version 
