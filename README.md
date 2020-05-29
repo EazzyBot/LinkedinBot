@@ -3,6 +3,9 @@
 ### About Eazy BOT
 It’s basically a bot which you can use to apply “Easy Apply” jobs on linkedin. You just need to enter your credentials and job preferences and let it go wild. It might take some time based on the number of jobs available so you can Netflix and chill meanwhile!
 
+### Please read [Linkedin Do's and Don'ts](https://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag#dos) 
+It is created solely for a fun purpose, [Linkedin terms and conditions apply](https://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag)
+
 Read the journey and motivation on [medium](https://medium.com/@ankit_nandwani/apply-to-over-1000-jobs-on-linkedin-automatically-a7fa72dd372b).
 
 ### Section 1: System Requirements
