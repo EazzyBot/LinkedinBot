@@ -71,6 +71,8 @@ Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
 |2.   | Input question validation needs to be handled|
 |3.   | Tool fails if some other language other than English is encountered|
 
+- [x] CSV generated file is missing some information
+
 
 ### Section 6:  Features
 1. Applies Easy apply jobs 
