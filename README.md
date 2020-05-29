@@ -66,9 +66,9 @@ Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
 
 ### Section 5:  List of known issues 
 ```
-- [ ] CSV generated file is missing some information
-- [ ] Input question validation needs to be handled
-- [ ] Tool fails if some other language other than English is encountered
+- CSV generated file is missing some information
+- Input question validation needs to be handled
+- Tool fails if some other language other than English is encountered
 ```
 
 ### Section 6:  Features
