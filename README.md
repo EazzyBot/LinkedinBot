@@ -65,12 +65,11 @@ __Step 7__: Sit back and enjoy the show!
 Please raise new issues [here](https://github.com/EazzyBot/LinkedinBot/issues)
 
 ### Section 5:  List of known issues 
-
-' 1. CSV generated file is missing some information'
-
-' 2. Input question validation needs to be handled'
-
-' 3. Tool fails if some other language other than English is encountered'
+|Sr no| Description |
+| --- | ----------- |
+|1.   | CSV generated file is missing some information|
+|2.   | Input question validation needs to be handled|
+|3.   | Tool fails if some other language other than English is encountered|
 
 
 ### Section 6:  Features
